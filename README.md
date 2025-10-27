@@ -49,7 +49,7 @@ product-catalog/
 1. **Download or clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/product-catalog.git
+   git clone https://github.com/palanimadhavan/product_catalog_filters.git
    ```
 
 2. **Open the folder** in your code editor.
